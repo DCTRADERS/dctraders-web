@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dc-traders.netlify.app/sitemap.xml
+Host: dc-traders.netlify.app
